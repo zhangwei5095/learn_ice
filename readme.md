@@ -66,24 +66,41 @@ module demo {
 
 5、查看src下文件目录为下：
 
-  java
-    │   │   ├── demo
-    │   │   │   ├── Callback_Printer_printString.java
-    │   │   │   ├── Printer.java
-    │   │   │   ├── PrinterHolder.java
-    │   │   │   ├── PrinterPrx.java
-    │   │   │   ├── PrinterPrxHelper.java
-    │   │   │   ├── PrinterPrxHolder.java
-    │   │   │   ├── _PrinterDisp.java
-    │   │   │   ├── _PrinterOperations.java
-    │   │   │   ├── _PrinterOperationsNC.java
-    │   │   │   ├── client
-    │   │   │   │   └── Client.java
-    │   │   │   ├── servant
-    │   │   │   │   └── PrinterI.java
-    │   │   │   └── server
-    │   │   │       └── Server.java
-    │   │   └── printer.ice
+java
+
+│   │   ├── demo
+
+│   │   │   ├── Callback_Printer_printString.java
+
+│   │   │   ├── Printer.java
+
+│   │   │   ├── PrinterHolder.java
+
+│   │   │   ├── PrinterPrx.java
+
+│   │   │   ├── PrinterPrxHelper.java
+
+│   │   │   ├── PrinterPrxHolder.java
+
+│   │   │   ├── _PrinterDisp.java
+
+│   │   │   ├── _PrinterOperations.java
+
+│   │   │   ├── _PrinterOperationsNC.java
+
+│   │   │   ├── client
+
+│   │   │   │   └── Client.java
+
+│   │   │   ├── servant
+
+│   │   │   │   └── PrinterI.java
+
+│   │   │   └── server
+
+│   │   │       └── Server.java
+
+│   │   └── printer.ice
 
 6、编写PrintI.java
 
