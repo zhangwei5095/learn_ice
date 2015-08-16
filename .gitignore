@@ -10,6 +10,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 ### Java template
+=======
+>>>>>>> bca260c1f68e985c573c526ca993c500258e3d31
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -22,6 +24,7 @@ buildNumber.properties
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
 
@@ -95,3 +98,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+=======
+>>>>>>> bca260c1f68e985c573c526ca993c500258e3d31
